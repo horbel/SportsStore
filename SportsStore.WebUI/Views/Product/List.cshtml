@@ -1,15 +1,15 @@
 ﻿@using SportsStore.Domain.Entities;
-@model IQueryable<SportsStore.Domain.Entities.Product>
+@model SportsStore.WebUI.Models.ProductsListViewModel
 
 @{
     ViewBag.Title = "Products";    
 }
 
-@foreach (Product p in Model)
+@foreach (Product p in Model.Products)
 {
-    <div class="item">
-        <h3>@p.Name</h3>
-        @p.Description
-        <h4>@p.Price</h4>
-    </div>
+    Html.RenderPartial("ProductSummary", p);
 }
+
+<div class="pager">
+    @Html.PageLinks(Model.pagingInfo, x => Url.Action("List", new { Page = x }))
+</div>

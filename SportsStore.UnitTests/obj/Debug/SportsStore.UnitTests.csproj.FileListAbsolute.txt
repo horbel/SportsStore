@@ -30,7 +30,6 @@ C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\Sports
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Razor.dll
-C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.pdb
@@ -39,7 +38,6 @@ C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\Sports
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Ninject.xml
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.Owin.xml
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Optimization.xml
-C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Mvc.xml
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.Owin.Security.xml
@@ -48,13 +46,11 @@ C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\Sports
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.xml
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Razor.xml
-C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.xml
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\ru\Microsoft.Owin.resources.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\ru\System.Web.Optimization.resources.dll
-C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\ru\System.Web.Mvc.resources.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\ru\Microsoft.AspNet.Identity.Core.resources.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\ru\Microsoft.AspNet.Identity.Owin.resources.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\ru\Microsoft.Owin.Security.resources.dll
@@ -62,7 +58,6 @@ C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\Sports
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\ru\EntityFramework.resources.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\ru\System.Web.Razor.resources.dll
-C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\ru\System.Web.WebPages.resources.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csprojResolveAssemblyReference.cache
