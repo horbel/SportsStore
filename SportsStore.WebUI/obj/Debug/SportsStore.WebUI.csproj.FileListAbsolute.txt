@@ -92,5 +92,3 @@ C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\Sports
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
-C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.mdf
-C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore_log.ldf

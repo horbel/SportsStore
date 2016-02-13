@@ -8,8 +8,10 @@
 @foreach (Product p in Model.Products)
 {
     Html.RenderPartial("ProductSummary", p);
+    
 }
 
 <div class="pager">
-    @Html.PageLinks(Model.pagingInfo, x => Url.Action("List", new { Page = x, category = Model.CurrentCategory }))
+    @Html.PageLinks(Model.pagingInfo, x => Url.Action("List",
+        new { Page = x, category = Model.CurrentCategory }))
 </div>

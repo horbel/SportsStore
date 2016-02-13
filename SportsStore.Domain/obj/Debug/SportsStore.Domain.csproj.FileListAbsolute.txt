@@ -3,8 +3,6 @@ c:\users\алексей\documents\visual studio 2015\Projects\SportsStore\Sports
 c:\users\алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
 c:\users\алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 c:\users\алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
-C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.mdf
-C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore_log.ldf
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
