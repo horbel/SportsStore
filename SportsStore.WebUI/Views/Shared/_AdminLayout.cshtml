@@ -4,9 +4,19 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <link href="~/Content/Admin.css" rel="stylesheet" type="text/css" />
+    <!--validation on client side with JS-->
+    <script src="~/Scripts/jquery-1.7.1.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
     <title>@ViewBag.Title</title>
 </head>
 <body>
+    <div>
+        @if (TempData["message"] != null)
+        {
+            <div class="Message">@TempData["message"]</div>
+        }            
+    </div>
     <div>
         @RenderBody()
     </div>

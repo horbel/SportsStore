@@ -26,5 +26,40 @@ namespace SportsStore.WebUI.Controllers
             .FirstOrDefault(p => p.ProductID == productId);
             return View(product);
         }
+        [HttpPost]
+        public ActionResult Edit(Product product)
+        {
+            if(ModelState.IsValid)
+            {
+                repository.SaveProduct(product);
+                TempData["message"] = $"{product.Name} has been saved";
+                return RedirectToAction("Index");
+            }
+            else
+            {
+                return View(product);
+            }
+
+        }
+        public ViewResult Create()
+        {   ///!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+            Product CreatedProduct = new Product();
+            int id = repository.Products.LastOrDefault().ProductID;
+            CreatedProduct.ProductID = id + 1;  
+
+            return View("Edit", CreatedProduct);
+        }
+
+        [HttpPost]
+        public ActionResult Delete(int productId)
+        {
+            Product deletedProduct = repository.DeleteProduct(productId);
+            if (deletedProduct != null)
+            {
+                TempData["message"] = string.Format("{0} was deleted", deletedProduct.Name);
+            }
+            return RedirectToAction("Index");
+        }
+
     }
 }
