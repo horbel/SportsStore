@@ -8,6 +8,7 @@ using SportsStore.Domain.Entities;
 
 namespace SportsStore.WebUI.Controllers
 {
+    [Authorize]
     public class AdminController : Controller
     {
         private IProductRepository repository;
@@ -42,12 +43,8 @@ namespace SportsStore.WebUI.Controllers
 
         }
         public ViewResult Create()
-        {   ///!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-            Product CreatedProduct = new Product();
-            int id = repository.Products.LastOrDefault().ProductID;
-            CreatedProduct.ProductID = id + 1;  
-
-            return View("Edit", CreatedProduct);
+        {   
+            return View("Edit", new Product());
         }
 
         [HttpPost]

@@ -11,6 +11,8 @@ using SportsStore.Domain.Entities;
 using Moq;
 using SportsStore.Domain.Concrete;
 using System.Configuration;
+using SportsStore.WebUI.Infrastructure.Abstract;
+using SportsStore.WebUI.Infrastructure.Concrete;
 
 
 namespace SportsStore.WebUI.Infrastructure
@@ -41,9 +43,9 @@ namespace SportsStore.WebUI.Infrastructure
             //}.AsQueryable());
             //ninjectKernel.Bind<IProductRepository>().ToConstant(mock.Object); 
             #endregion
-
+            //EF
             ninjectKernel.Bind<IProductRepository>().To<EFProductRepository>();
-
+            //EMAIL
             EmailSettings emailSettings = new EmailSettings
             {
                 WriteAsFile = bool.Parse(ConfigurationManager
@@ -52,6 +54,8 @@ namespace SportsStore.WebUI.Infrastructure
             ninjectKernel.Bind<IOrderProcessor>()
             .To<EmailOrderProcessor>()
             .WithConstructorArgument("settings", emailSettings);
+            //AUTH
+            ninjectKernel.Bind<IAuthProvider>().To<FormsAuthProvider>();
         }
     }
 }
