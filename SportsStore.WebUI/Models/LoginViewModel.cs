@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 namespace SportsStore.WebUI.Models
 {
-    public class MyLoginViewModel
+    public class LoginViewModel
     {
         [Required]
         public string UserName { get; set; }

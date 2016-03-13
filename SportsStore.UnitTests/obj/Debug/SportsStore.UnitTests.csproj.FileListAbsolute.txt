@@ -27,7 +27,6 @@ C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\Sports
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.dll
-C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Razor.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.dll
@@ -44,7 +43,6 @@ C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\Sports
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.xml
-C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Razor.xml
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.xml
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
@@ -56,7 +54,6 @@ C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\Sports
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\ru\Microsoft.Owin.Security.resources.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\ru\EntityFramework.resources.dll
-C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\ru\System.Web.Razor.resources.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\ru\System.Web.WebPages.resources.dll
 C:\Users\Алексей\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll

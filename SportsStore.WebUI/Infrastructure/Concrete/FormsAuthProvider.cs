@@ -1,10 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Web;
-using SportsStore.WebUI.Infrastructure.Abstract;
 using System.Web.Security;
-
+using SportsStore.WebUI.Infrastructure.Abstract;
 namespace SportsStore.WebUI.Infrastructure.Concrete
 {
     public class FormsAuthProvider : IAuthProvider
@@ -12,7 +10,7 @@ namespace SportsStore.WebUI.Infrastructure.Concrete
         public bool Authenticate(string username, string password)
         {
             bool result = FormsAuthentication.Authenticate(username, password);
-            if(result)
+            if (result)
             {
                 FormsAuthentication.SetAuthCookie(username, false);
             }
